@@ -6,6 +6,7 @@
 1. 抽烟
 2. 喝酒
 3. 烫头
+4. 学习
 
 编程语言
 * JS
@@ -23,5 +24,5 @@
     var a = 1;
     console.log(a);
 
-    
 
+[交友链接](https://github.com/jiayouzhao/blog-test)
