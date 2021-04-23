@@ -5,15 +5,15 @@
 我的爱好
 1. 抽烟
 2. 喝酒
-3. 烫头
+3. 相声
 4. 学习
 
-编程语言
+喜欢的编程语言
 * JS
-* PHP
+* Ruby
 * JAVA
 
-第一次编码的片段
+第一次用```javascript```编码
 
 ```javascript
     console.log('hello world');
@@ -25,4 +25,4 @@
     console.log(a);
 
 
-[交友链接](https://github.com/jiayouzhao/blog-test)
+如果你也喜欢JS，可以[互关](https://github.com/jiayouzhao/blog-test)哦！
