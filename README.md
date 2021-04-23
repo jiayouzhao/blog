@@ -24,5 +24,4 @@
     var a = 1;
     console.log(a);
 
-
-如果你也喜欢JS，可以[互关](https://github.com/jiayouzhao/blog-test)哦！
+如果你也喜欢js,可以看我的其他[项目](https://github.com/jiayouzhao)
