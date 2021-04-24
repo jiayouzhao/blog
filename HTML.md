@@ -21,15 +21,15 @@
     ```
 
 3. 表章节的标签
-    * h1~h6       标题
-    * section     章节
-    * article     文章
-    * p           段落
-    * header      头部
-    * footer      脚步
-    * main        主要内容
-    * aside       旁支内容
-    * div         划分，块
+    * h1~h6　　　　标题
+    * section　　　章节
+    * article　　　文章
+    * p　　　　　　段落
+    * header　　　头部
+    * footer　　　脚步
+    * main　　　　主要内容
+    * aside　　　旁支内容
+    * div　　　　划分，块
 
 4. 全局属性
     * class
@@ -41,18 +41,18 @@
     * title
  
  5. 内容标签
-    * ol+li  有序列表
-    * ul+li  无序列表
-    * dl+dt+dd  描述项目
-    * pre 代码或文字不论多少空格、转行，html按原样显示
-    * hr  显示一条分割线
-    * br  转到下一行
-    * a   链接标签
-    * em  强调阅读的内容
-    * strong 文本内容重要
-    * code   代码展示
-    * q(quote) 引文
-    * blockquote 引文有缩进
+    * ol+li　　　有序列表
+    * ul+li　　　无序列表
+    * dl+dt+dd　描述项目
+    * pre　　　　代码或文字不论多少空格、转行，html按原样显示
+    * hr　　　　显示一条分割线
+    * br　　　　转到下一行
+    * a　　　　　链接标签
+    * em　　　　强调阅读的内容
+    * strong　　文本内容重要
+    * code　　　代码展示
+    * q(quote)　引文
+    * blockquote引文有缩进
  
     
     
