@@ -69,6 +69,25 @@
     <iframe src="" name="aaa"></iframe>
     ```
 
+# img标签
+
+* 属性
+
+    alt　图像的文本描述，当无法加载图片时，浏览器会显示文本描述
+    height/width 图像的宽/高，直接写数字
+    src　图片的文件路径
+
+* 事件
+    onload  图片加载成功后立即执行
+
+    onerror 图片加载发生错误时会触发
+
+* 响应式
+
+    ```css
+    max-width:100%;
+    ```
+
 # table标签
 
 * 完整示例
