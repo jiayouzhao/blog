@@ -148,6 +148,7 @@
 # form标签
 
 　　发送get和post请求，然后更新页面
+
 　　必须有一个type=submit才能触发submit事件
 
 * 属性
