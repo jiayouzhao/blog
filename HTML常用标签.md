@@ -84,7 +84,7 @@
     onload  图片加载成功后立即执行
 
     onerror 图片加载发生错误时会触发
-    
+
 * 响应式
 
     ```css
@@ -144,3 +144,26 @@
     border-spacing: 0px;
     ```
     单元格边框之间的距离
+
+# form标签
+
+　　发送get和post请求，然后更新页面
+
+* 属性
+
+    1. action="/yyy"  表单提交到指定URL
+
+    2. autocomplete="on | off"  input元素有默认值，值由浏览器提供
+
+    ```html
+        <form action="/xxx" autocomplete="on">
+            <input type="text" name="username">
+            <input type="submit">
+        </form>
+    ``` 
+    3. method = "get | post"
+        post 提交的一种方式，将数据包含在表单体内
+
+* 事件
+
+    onsubmit 表单提交时触发         
