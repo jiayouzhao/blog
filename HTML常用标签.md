@@ -108,12 +108,14 @@
     table-layout: auto | fixed;
     ```
     auto 浏览器自动表格布局
+    
     fixed 通过自定义宽度来布局
     
     ```css
     border-collapse:collapse | separate;
     ```
     collapse 相邻单元格共用一条边框
+
     separate 单元格有独立的边框
 
     ```css
