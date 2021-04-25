@@ -151,7 +151,7 @@
 
 * 属性
 
-    1. action="/yyy"  表单提交到指定URL
+    1. action="/yyy"    表单提交到指定URL
 
     2. autocomplete="on | off"  input元素有默认值，值由浏览器提供
 
