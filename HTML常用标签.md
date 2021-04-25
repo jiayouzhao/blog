@@ -4,16 +4,16 @@
 
 * 属性
 
-1. href
+    1. href
 
-- 网址
+        - 网址
 
-     ```html
-      <a href="https://baidu.com">百度</a>
-      <a href="http://baidu.com">百度</a>
-      <a href="//baidu.com">百度</a> 
-     ```
-     网址路径用//，//baidu.com是最高级，可以自动适应https或者http。
+        ```html
+        <a href="https://baidu.com">百度</a>
+        <a href="http://baidu.com">百度</a>
+        <a href="//baidu.com">百度</a> 
+        ```
+        网址路径用//，//baidu.com是最高级，可以自动适应https或者http。
      
 * 路径
      ```html
