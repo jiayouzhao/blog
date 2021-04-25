@@ -108,7 +108,7 @@
     table-layout: auto | fixed;
     ```
     auto 浏览器自动表格布局
-    
+
     fixed 通过自定义宽度来布局
     
     ```css
