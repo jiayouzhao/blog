@@ -1,7 +1,8 @@
 # a标签
 ## 属性
-1. href
-   * 网址
+### 1. href
+* 网址
+
      ```
       <a href="https://baidu.com">百度</a>
       <a href="http://baidu.com">百度</a>
@@ -9,7 +10,7 @@
      ```
      网址路径用//，//baidu.com是最高级，可以自动适应https或者http。
      
-   * 路径
+* 路径
      ```
       <a href="/a/b/c">新页面</a>
       <a href="a/b/c">新页面</a>
@@ -21,11 +22,11 @@
      ```
      在当前目录打开index.html，两种方式效果相同
      
-   * id
+* id (跳转到内部锚点)
      ```
      <div>
         <p>1</p><p>2</p><p>3</p><p>4</p><p>5</p><p>6</p><p id="num7">7</p><p>8</p>
-        <p>9</p><p>10</p><p>11</p><p>12</p><p>13</p><p>41</p>
+        <p>9</p><p>10</p><p>11</p><p>12</p><p>13</p><p>14</p>
      </div>
      ```
      ```
@@ -33,7 +34,7 @@
      ```
       点击a标签以后，页面滚动到数字7的位置
     
-   * 伪协议
+* 伪协议
      ```
      <a href="javascript:;">点击</a>
      ```
@@ -42,5 +43,25 @@
      <a href="mailto:***@163.com">发邮件给某人</a>
      ```
      ```
-     
+     <a href="tel:1361111111">打电话给某人</a>
      ```
+
+### 2. target
+
+* _blank
+
+    ```
+    <a href="//baidu.com" target="_blank">百度</a>
+    ```
+    跳转到新的页面
+
+* _self
+
+    在当前页面打开
+   
+* 自定义
+
+    ```
+    <a href="//baidu.com" target="aaa">百度</a>
+    <iframe src="" name="aaa"></iframe>
+    ```
