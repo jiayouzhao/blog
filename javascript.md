@@ -12,7 +12,18 @@ JavaScript是一种具有函数优先的轻量级，解释型或即时编译型�
 
 JavaScript是谁发明的呢？布兰登(Brendan Eich)。
 
-布兰登在1995年4月被网景公司录用，此前网景公司发布了第一个网络浏览器，急需一种网页脚本语言，让浏览器可以与网页互动，而Sun公司大肆宣传Java，看起来有可能成为未来的主宰。让网景公司动了心，决定未来的网页脚本语言看上去与Java足够相似，指定Brendan Eich为“简化版Java语言”的设计师。于是，为了应付公司的安排，他只用10天时间设计出了JavaScript的最初版本。(具体内容跳转[阮一峰博客](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html))
+![布兰登](/images/people.png)
+
+布兰登在1995年4月被网景公司录用，此前网景公司发布了第一个网络浏览器，
+
+![浏览器](/images/web.png)
+
+
+急需一种网页脚本语言，让浏览器可以与网页互动，而Sun公司大肆宣传Java，看起来有可能成为未来的主宰。
+
+![Java](/images/java.png)
+
+让网景公司动了心，决定未来的网页脚本语言看上去与Java足够相似，指定Brendan Eich为“简化版Java语言”的设计师。于是，为了应付公司的安排，他只用10天时间设计出了JavaScript的最初版本。(具体内容跳转[阮一峰博客](http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html))
 
 
 ## 三、到哪里去
