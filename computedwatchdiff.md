@@ -62,5 +62,5 @@
 
     vm.$watch("e",function(val,oldVal){})
     ```
-
+    谨慎在侦听的时候，在箭头函数里用 this ，因为 this 不是指向 vm 。
 
